@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dreamforest1007.twa",
+      "sha256_cert_fingerprints": [
+        "03:74:98:BB:CC:A7:E4:4A:58:0D:3D:2E:2B:DD:A2:FE:02:81:E0:80:7F:9C:D4:29:B7:BC:54:8A:79:86:C9:61"
+      ]
+    }
+  }
+]
